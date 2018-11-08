@@ -1,0 +1,21 @@
+{
+	"metadata": {
+		"version": 4,
+		"type": "BufferGeometry",
+		"generator": "BufferGeometryExporter"
+	},
+	"data": {
+		"attributes": {
+			"position": {
+				"itemSize": 3,
+				"type": "Float32Array",
+				"array":[],
+        "normalized" : true
+
+			}
+		},
+		"boundingBox": {
+			"center": [0,0,0]
+		}
+	}
+}
