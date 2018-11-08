@@ -9,7 +9,7 @@ var modeljson ='./images.json'
 router.get('/', function(req, res) {
     console.log("get html");
     res.sendFile('index.html',{
-      root:'C:/Users/Gerta/Desktop/uni/project/visualisation/views'
+      root:'./views'
     });
 });
 
